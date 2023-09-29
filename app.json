@@ -1,0 +1,11 @@
+{
+  "expo": {
+    "name": "Stash",
+    "slug": "Stash",
+    "version": "1.0.0",
+    "assetBundlePatterns": [
+      "**/*"
+    ]
+  },
+  "name": "Stash"
+}
